@@ -1,0 +1,9 @@
+﻿Meeting Notes:
+* We met with program director Lisa Lloyd and administrative assistance Kara Fox.
+* The best time to meet with Lisa in the future is during weekly working hours, however evenings also work for her.
+* We must figure out a convenient time for all of us and let Lisa know so we can schedule future meetings.
+* The Knox County Foundation is a non-profit organization that receives money from donors, invests the money, and then provides the money for grants and scholarships at a monthly rate. 
+* To help us have a better understanding of what our application should look at we will be given access to another online application by the foundation. We can also fill out some fake applications ourselves. This will also give us a look at what the data looks like on their end.
+* The current software used for the other application is run by Awardspring, access for the application: https://knoxcf.awardspring.com
+* We also asked if they have any issues with their current software and if we should plan ahead to develop around those issues.
+* Lisa will Email the list of stakeholders to us.
