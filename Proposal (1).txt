@@ -1,0 +1,42 @@
+﻿1. The Knox County Foundation is a nonprofit organization with the goal of improving the quality of life in Knox County through charitable giving. The organization focuses on emerging and changing community needs mainly in the fields of: education, youth services, recreation, arts and culture and social services. The Foundation receives money from donors and provides grants and scholarships for community members. The scholarship application we will be working on is a vocational scholarship, which is available  to residents of Knox County who are attending, or will attend, an occupational training program of two-years or less at an accredited vocational school, technical school, community college, or junior college. 
+
+
+2. We met with Lisa Lloyd, who is the program director, and Kara Fox, who is the administrative assistant.
+
+
+3.
+List of community stakeholders 
+-Beth Marhefka, Career Placement and Career Development Coordinator at the Knox County Career Center, (bmarhefka@knoxcc.org).
+-Jane Marlow, Director of the Knox County Technical Center, (jmarlow@knoxcc.org).
+-Sheryl Mickley, Financial Aid Coordinator at Knox Technical Center, (smickley@knoxcc.org).
+-Dr. Timm Mackley, Superintendent of the Knox County Educational Service Center, (timmmackley@gmail.com).
+-Faith Phillips, Director of Financial Aid at Central Ohio Technical College, (phillips.495@cotc.edu).
+-Vicki Maple, Vice President for Economic Development and Workforce Solutions, (maple.2571@mail.cotc.edu).
+
+
+4. Overview of the goals of the project: 
+* Transfer their vocational scholarship application which is currently a print-out pdf into a fully online application
+* Maintain their data secure as they will have social security numbers and FAFSA information which is sensitive data
+* Make an database that is easy for the foundation to navigate and review applicants answers
+* Make an efficient web application that will have minimal errors for applicants to apply easily and without trouble
+
+
+5. The main attribute of the project is nicely formatted data for easy evaluation and review of the applicant profiles. The information on the candidates should be displayed in a compact and concise manner. Another important feature of the project is ensuring an effective and smooth transition from a pdf format to fully functional online application platform. 
+
+
+6. Personal details data: name, address, city, state, zip, phone, email, date of birth, gender, last 4 digits of SSN
+
+
+Resume type data: previous education which includes type (hs, college, etc), name, degree attained, and completion date
+
+
+Current education which includes college/ school name, admission status(applied, accepted, enrolled), anticipated program, cost of program, anticipated start date, first payment due date
+
+
+Personal goals which include 4 essay type questions about the applicant
+
+
+Data being attached: High School transcripts, FAFSA, financial aid packages
+
+
+Final data points: Whether they agree to a certification of truth statement(yes or no), applicant signature, date, and parent or guardian signature (if under 18) with date
